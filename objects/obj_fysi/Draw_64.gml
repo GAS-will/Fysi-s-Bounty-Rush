@@ -1,0 +1,1 @@
+draw_text_transformed(8, -8, "Tesouros: " + string(global.recursos), 3, 3, 0)

@@ -1,0 +1,4 @@
+draw_self()
+image_angle=90
+image_xscale=global.tamanho_coletaveis
+image_yscale=global.tamanho_coletaveis
