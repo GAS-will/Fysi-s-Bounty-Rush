@@ -1,1 +1,1 @@
-draw_text_transformed(8, -8, "Tesouros: " + string(global.recursos), 3, 3, 0)
+draw_text_transformed(8, -8, "Treasures: " + string(global.recursos), 3, 3, 0)
