@@ -20,6 +20,7 @@
     {"id":{"name":"scr_inicio","path":"scripts/scr_inicio/scr_inicio.yy",},"order":0,},
     {"id":{"name":"obj_controle","path":"objects/obj_controle/obj_controle.yy",},"order":1,},
     {"id":{"name":"spr_proceed","path":"sprites/spr_proceed/spr_proceed.yy",},"order":17,},
+    {"id":{"name":"snd_pega","path":"sounds/snd_pega/snd_pega.yy",},"order":1,},
     {"id":{"name":"spr_pag3_en","path":"sprites/spr_pag3_en/spr_pag3_en.yy",},"order":14,},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":1,},
     {"id":{"name":"obj_ouro","path":"objects/obj_ouro/obj_ouro.yy",},"order":11,},
