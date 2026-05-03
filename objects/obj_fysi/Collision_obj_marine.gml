@@ -1,4 +1,5 @@
 instance_destroy()
 global.recursos=0
-room_restart()
+global.movimento=-3
+game_restart()
 room_goto(rm_perdeu)
