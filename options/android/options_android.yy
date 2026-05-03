@@ -13,7 +13,7 @@
   "option_android_compile_sdk": "33",
   "option_android_package_domain": "com.gaswill.fysisbountyrush",
   "option_android_package_company": "GASwill",
-  "option_android_package_product": "FýsisBountyRush",
+  "option_android_package_product": "FysisBountyRush",
   "option_android_arch_armv7": false,
   "option_android_arch_arm64": true,
   "option_android_arch_x86_64": false,
